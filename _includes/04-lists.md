@@ -3,4 +3,4 @@
 - 🐱 Cats
 - 🥣 Noodles
 - 🌊 The Bay of Fundy
-- 🤵 Gary Numan 
+- 🤵 Gary Numan
