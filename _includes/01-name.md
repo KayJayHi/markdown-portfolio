@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+### *Kathleen*
+# Go Git 'Em!
+## A learning portfolio
