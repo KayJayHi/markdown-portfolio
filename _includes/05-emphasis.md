@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I *love* to find and tell stories, especially about people's lives. I'm a great recipe editor and an experienced English-language proofreader. I'm currently learning __Java__. 
