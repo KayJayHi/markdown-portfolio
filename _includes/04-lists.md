@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## A few favourites
+- 📖 Old city directories
+- 🐱 Cats
+- 🥣 Noodles
+- 🌊 The Bay of Fundy
+- 🤵 Gary Numan 
